@@ -1,0 +1,17 @@
+name: compucorptask
+type: theme
+base theme: classy
+Description: "CompuCorp Tasks Theme"
+package: custom
+core: 8.x
+
+regions:
+  headline: headline
+  header: header
+  content: content
+  footer: Footer
+
+
+libraries:
+  - compucorptask/global-styling
+
